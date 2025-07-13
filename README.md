@@ -1,7 +1,7 @@
 
 # **Freelance Project Hub**  
 **Overview**  
-Freelance Project Hub is a web-based Project Management System built using **ASP.NET Core MVC, PostgreSQL, and Entity Framework (Code First)**. This platform allows freelancers and clients to manage projects, track time, handle invoices, and collaborate in a centralized interface. It's designed to help independent professionals streamline their workflow, ensure timely payments, and maintain client relationships efficiently.
+Freelance Project Hub is a web-based Project Management System built using **ASP.NET Core MVC, and Entity Framework (Code First)**. This platform allows freelancers and clients to manage projects, track time, handle invoices, and collaborate in a centralized interface. It's designed to help independent professionals streamline their workflow, ensure timely payments, and maintain client relationships efficiently.
 
 ### **Key Features**  
 **Project Management** – Create, edit, and track projects with deadlines and client details.  
