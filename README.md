@@ -14,8 +14,8 @@ Freelance Project Hub is a web-based Project Management System built using **ASP
 - **ASP.NET Core MVC**  
 - **Entity Framework Core (Code First)**  
 - **PostgreSQL Database**  
-- **Bootstrap / HTML / CSS**  
-- **LINQ & Razor Views**  
+- ** HTML / CSS**  
+- ** Razor Views**  
 - **Stripe/PayPal API** (for payments)  
 
 ### **Entities and Relationships**  
